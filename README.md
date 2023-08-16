@@ -1,2 +1,2 @@
 # go_practice
-My sandbox for learning Go
+This is my sandbox for learning Go
