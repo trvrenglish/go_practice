@@ -1,0 +1,7 @@
+go 1.21.0
+
+use (
+    ./bcrypt_practice
+    ./aes_practice
+    ./gofiber_api
+)
